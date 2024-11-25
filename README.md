@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PT. Tiara Indoprima](http://www.tiara-indoprima.com/)
 
-- 🌱 I’m currently learning **at Indonesian University of Informatics and Business**
+- 🌱 I’m currently studying **at Indonesian University of Informatics and Business**
 
 - 📫 How to reach me **qaysa78@gmail.com**
 
