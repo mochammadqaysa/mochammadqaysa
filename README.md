@@ -37,8 +37,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mochammadqaysa&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 
-<br clear="both">
-
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochammadqaysa/mochammadqaysa/output/github-contribution-grid-snake-dark.svg">
@@ -46,6 +44,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mochammadqaysa/mochammadqaysa/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
+<br clear="both">
+
 
 <div align="center">
 <picture>
@@ -55,7 +56,6 @@
 </picture>
 </div>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ###
 
