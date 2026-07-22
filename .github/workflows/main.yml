@@ -1,4 +1,4 @@
-name: Generate Snake and Pacman
+name: Generate Snake
 
 on:
   schedule:
@@ -22,21 +22,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # Pacman Light
-      - name: Generate Pacman Light SVG
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          output_path: dist/pacman-contribution-graph.svg
-
-      # Pacman Dark (pakai warna tema gelap)
-      - name: Generate Pacman Dark SVG
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          theme: github-dark
-          output_path: dist/pacman-contribution-graph-dark.svg
 
       # Push semua file ke branch output
       - name: Deploy to output branch
