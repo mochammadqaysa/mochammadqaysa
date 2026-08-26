@@ -5,8 +5,8 @@
 
 <!-- Profile Views + Followers badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mochammadqaysa&color=00C8FF&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/mochammadqaysa?label=Followers&style=flat-square&color=09B6C2)](https://github.com/yudistirosaputro?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/mochammadqaysa?label=Total+Stars&style=flat-square&color=FFD700)](https://github.com/yudistirosaputro)
+[![GitHub followers](https://img.shields.io/github/followers/mochammadqaysa?label=Followers&style=flat-square&color=09B6C2)](https://github.com/mochammadqaysa?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/mochammadqaysa?label=Total+Stars&style=flat-square&color=FFD700)](https://github.com/mochammadqaysa)
 </div>
 
 ## 👨‍💻 About Me
